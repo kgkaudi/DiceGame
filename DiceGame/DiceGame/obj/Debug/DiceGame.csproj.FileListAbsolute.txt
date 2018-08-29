@@ -1,0 +1,15 @@
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\MainWindow.g.cs
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\App.g.cs
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame_MarkupCompile.cache
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame_MarkupCompile.lref
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\MainWindow.baml
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.g.resources
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Konstantinos\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
